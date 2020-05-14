@@ -7,7 +7,7 @@ crash_detector.py		    	Module to use for prediction
 DataExploration.html			HTML example of Jupyter notebook		
 DataExploration.ipynb			Jupyter Notebook containing data exploration
 exploration.py				Module for data exploration notebook and other ideas
-Sensor_Challenge.pdf		Report
+Sensor_Challenge.pdf		        Report
 predict.py				Main prediction script
 README.txt				Details of .zip contents
 results.csv				CSV file containing prediction results
